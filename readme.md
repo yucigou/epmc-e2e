@@ -2,7 +2,7 @@
 
 Prototype of E2E test for epmc
 
-# Install
+# Installation
 ```
 npm install
 ```
