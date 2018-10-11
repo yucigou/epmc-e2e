@@ -1,6 +1,6 @@
 # Description
 
-Prtotype of E2E test for epmc
+Prototype of E2E test for epmc
 
 # Install
 ```
