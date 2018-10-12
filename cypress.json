@@ -1,3 +1,8 @@
 {
-  "projectId": "t2tk7k"
+  "projectId": "t2tk7k",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "results/my-test-output.xml",
+    "toConsole": true
+  }
 }
